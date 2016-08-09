@@ -1,0 +1,135 @@
+Content in Person table: 
+lname : Fellini
+fname : Federico
+id : 1
+
+lname : Noel
+fname : Magali
+id : 2
+
+lname : Zanin
+fname : Bruno
+id : 3
+
+lname : Maggio
+fname : Pupella
+id : 4
+
+lname : Drancia
+fname : Armando
+id : 5
+
+lname : Mcbride
+fname : Jim
+id : 6
+
+lname : Quaid
+fname : Dennis
+id : 7
+
+lname : Barkin
+fname : Ellen
+id : 8
+
+lname : Beatty
+fname : Ned
+id : 9
+
+lname : Persky
+fname : Lisa Jane
+id : 10
+
+lname : Goodman
+fname : John
+id : 11
+
+lname : Ludlam
+fname : Charles
+id : 12
+
+lname : Singleton
+fname : John
+id : 13
+
+lname : Gooding
+fname : Cuba Jr.
+id : 14
+
+lname : Cube
+fname : Ice
+id : 15
+
+lname : Fishburne
+fname : Larry
+id : 16
+
+lname : Ferrell
+fname : Tyra
+id : 17
+
+lname : Chestnut
+fname : Morris
+id : 18
+
+Content in Movies table: 
+title : Amacord
+director : 1
+year_made : 1974
+id : 1
+
+title : The Big Easy
+director : 6
+year_made : 1987
+id : 2
+
+title : Boyz N the Hood
+director : 13
+year_made : 1991
+id : 3
+
+Content in Acts_In table: 
+actor : 1
+movie : 2
+
+actor : 1
+movie : 3
+
+actor : 1
+movie : 4
+
+actor : 1
+movie : 5
+
+actor : 2
+movie : 7
+
+actor : 2
+movie : 8
+
+actor : 2
+movie : 9
+
+actor : 2
+movie : 10
+
+actor : 2
+movie : 11
+
+actor : 2
+movie : 12
+
+actor : 3
+movie : 14
+
+actor : 3
+movie : 15
+
+actor : 3
+movie : 16
+
+actor : 3
+movie : 17
+
+actor : 3
+movie : 18
+

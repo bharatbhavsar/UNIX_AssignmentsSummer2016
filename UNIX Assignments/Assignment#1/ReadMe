@@ -1,0 +1,5 @@
+1. Copy MyTrace.cpp to directory
+2. compile program and create executable using following command
+	gcc MyTrace.cpp -o <nameOfexecutableYouWant>
+3. executre program using following command
+	./<nameOfexecutableYouWant> <websiteAddress>

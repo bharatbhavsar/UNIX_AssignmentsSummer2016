@@ -1,0 +1,13 @@
+General Scenario to run programs:
+
+1. Copy all .cpp files to your directory
+2. compile program and create executable using following command
+	c++ <filename>.cpp -o <nameOfexecutableYouWant>
+	c++ <filename>.cpp -o <nameOfexecutableYouWant> -l sqlite3 ----> for database related programs related to sqlite3
+3. executre program using following command
+	./<nameOfexecutableYouWant>
+
+
+Copy all required txt files to working directory.
+Also, follow required steps to execute these programs as given in assignment.
+Please let me know if you face any problem.
